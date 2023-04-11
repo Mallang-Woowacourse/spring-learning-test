@@ -1,7 +1,7 @@
 package nextstep.helloworld.mvc.handler;
 
 import io.restassured.RestAssured;
-import nextstep.helloworld.mvc.domain.User;
+import nextstep.helloworld.mvc.mvc.domain.User;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

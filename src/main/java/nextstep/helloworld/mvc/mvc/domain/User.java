@@ -1,4 +1,4 @@
-package nextstep.helloworld.mvc.domain;
+package nextstep.helloworld.mvc.mvc.domain;
 
 public class User {
     private Long id;
